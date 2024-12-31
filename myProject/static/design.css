@@ -1,0 +1,13 @@
+body {
+    background-color: yellowgreen;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#demo {
+    border-style: dotted;
+    border-color: rgb(124, 73, 73);
+    }
